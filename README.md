@@ -1,2 +1,0 @@
-# grocery
-online grocery shopping
